@@ -10,7 +10,7 @@ To install the Progeny Scores, follow these steps:
  
 1. **Clone the Repository**:
  ```
-git clone https://github.com/your-repository/progeny_scores.git
+git clone https://github.com/gentest2/progeny_scores.git
 cd progeny_scores
  ```
 
